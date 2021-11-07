@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CmpAmpliAudioTR)(type KiCad)(uri C:/Users/Usuario/Desktop/BELEC/Lib3imacsCorrige/CmpAmpliAudioTR.pretty)(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type KiCad)(uri C:/Users/Usuario/Desktop/BELEC/LibAmpli_3imacs/CmpAmpliAudio.pretty)(options "")(descr ""))
+)
